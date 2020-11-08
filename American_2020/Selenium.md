@@ -18,13 +18,13 @@ parsel
 
 这个数据是通过js后期加载到网页中的，在代码中可以看到这里有大量的<g>标签
 
-![image-20201108190230684](C:\Users\MarrtenBird\AppData\Roaming\Typora\typora-user-images\image-20201108190230684.png)
 
 
+![image-20201108190230684](image-20201108190230684.png)
 
 但是到源代码中，却没有
 
-![image-20201108190301951](C:\Users\MarrtenBird\AppData\Roaming\Typora\typora-user-images\image-20201108190301951.png)
+![image-20201108190301951](image-20201108190301951.png)
 
 
 
